@@ -14,7 +14,7 @@ JavaScript | CSS | Node | npm | uuid | Express | Heroku
 
 <br/>
 
-## Link
+## Heroku Link
 [Note Taker](https://afternoon-lake-84914.herokuapp.com/)
 
 <br/>
