@@ -5,12 +5,12 @@ This app will make your day go by a lot smoother, think of how much easier it wo
 <br/>
 
 ## Built With
-JavaScript | Node | npm | Express | Heroku
+JavaScript | CSS | Node | npm | uuid | Express | Heroku
 
 <br/>
 
 ## Demo
-![](Link from gitub,afer adding gif into repo)
+![](https://github.com/AndyBoyee604/Note-Taker/blob/main/Demo/Note-Taker-Demo.gif)
 
 <br/>
 
